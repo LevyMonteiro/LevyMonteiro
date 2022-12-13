@@ -24,8 +24,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/levymonteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levymonteiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levymonteiro&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" style"width=:50%" src="https://github-readme-stats.vercel.app/api?username=levymonteiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" style"width=:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levymonteiro&layout=compact&theme=github_dark"/>
 </div> 
 <br><br>
 
