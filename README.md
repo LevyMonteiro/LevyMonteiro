@@ -6,7 +6,7 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-<div>
+<div align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,8 +23,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levymonteiro&show_icons=true&theme=github_dark">
+  <a href="https://github.com/levymonteiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levymonteiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levymonteiro&layout=compact&theme=github_dark">
 
 </div>
