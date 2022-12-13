@@ -19,13 +19,13 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 </div>
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=levymonteiro&show_icons=true&theme=github_dark">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levymonteiro&layout=compact&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levymonteiro&show_icons=true&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levymonteiro&layout=compact&theme=github_dark">
 
 </div>
 <br><br>
