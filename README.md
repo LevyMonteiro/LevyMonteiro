@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Levy Monteiro
-- Student of Web Development at Rocketseat
+- Student of Web Development
 - I'm interested in opportunities to collaborate and learning!
 - From Rio de Janeiro, Brazil
 - Reach me https://levymonteiro.github.io/social-tree/
