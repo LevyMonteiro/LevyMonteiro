@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Levy Monteiro
-- Student of Web Development
+- Front-end Web Development
 - I'm interested in opportunities to collaborate and learning!
 - From Rio de Janeiro, Brazil
-- Reach me https://levymonteiro.github.io/social-tree/
+- Reach me <a href='https://social-tree-levymonteiro.vercel.app' target='_blank'>here<a/>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
